@@ -25,7 +25,9 @@ public class Variables {
 			//Uses "" not '' 
 			// "" for strings '' for characters
 	String stringExample = "String";
+		//Boolean are true or false values but they use 0 or 1 for the value, 1 is active or true, 0 is inactive or false
+		//Uses true or false
+	boolean booleanExample = false;
 		
-	
-}
+	}
 }
