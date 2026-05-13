@@ -1,5 +1,13 @@
-
 public class Variables {
+	
+	public static void main(String[] args) {
+	//Variables are saved data that we can reference to use this manually assigned value
+		//All the test items below are Variables
+		//Variables require a type to be assigned for it function otherwise the system will produce an error.
+		//To use a variable in a line you just use the normal print() or println() command
+	int VariableExample = 1;
+		System.out.println(VariableExample) ;
+		System.out.print(VariableExample) ;
 	// Java uses a couple variable types
 		//int are integers and these are simple numbers such as 1 or 2, without any decimals. so whole numbers
 	int testInteger = 1;
@@ -17,4 +25,7 @@ public class Variables {
 			//Uses "" not '' 
 			// "" for strings '' for characters
 	String stringExample = "String";
+		
+	
+}
 }
